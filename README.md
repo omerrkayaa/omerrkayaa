@@ -13,6 +13,9 @@ Supabase/PostgreSQL ve Row Level Security ile erişim kontrolü, çevrimdışı 
 **[İncir Aflatoksin Sınıflandırması](https://github.com/omerrkayaa/incir-aflatoksin-siniflandirma)**: İncir görüntülerinde sağlıklı / aflatoksinli ayrımı (staj projesi)
 PyTorch. Beş CNN mimarisinin transfer learning ile karşılaştırılması, Optuna, Hyperopt ve PSO ile hiperparametre optimizasyonu, Grad-CAM ile açıklanabilirlik. Veri sızıntısı ve çekim koşulu kaynaklı riskler README'de ayrıca değerlendirildi.
 
+**[KaraKutu](https://github.com/omerrkayaa/karakutu)**: Araç kara kutusu ve kaza bildirim sistemi (IoT dersi projesi)
+ESP32 (PlatformIO) çarpma ve devrilmeyi algılar, MQTT ile fog sunucusuna bildirir. Python sunucusu mesajları doğrular, SQLite'a kaydeder ve LLM ile (Gemini, yerel Ollama'ya düşen sağlayıcı zinciri) aileye mesaj ve olay raporu üretir. Komutlar izin listesiyle sınırlı, panel yalnız yerelde dinler. Donanım olmadan uçtan uca deneme için ESP32 simülatörü, firmware mantığı için masaüstü testleri.
+
 **[4x4 WireCar](https://github.com/omerrkayaa/wire-car)**: OpenGL/GLUT ile sürülebilir tel kafes araba
 C++. Ackermann direksiyon geometrisi, değiştirilebilir 4×4 çekiş, aydınlatma ve kamera modları.
 
@@ -28,6 +31,7 @@ Python, pandas.
 - **Makine öğrenmesi:** PyTorch, torchvision, scikit-learn, Optuna
 - **Arka uç:** NestJS, Express, Flask, PostgreSQL, PostGIS, Supabase, Drizzle
 - **Ön uç ve mobil:** Next.js, React, Expo / React Native
+- **Gömülü / IoT:** ESP32, PlatformIO, MQTT (Mosquitto), Raspberry Pi
 - **Araçlar:** Git, Docker, Playwright, GitHub Actions, Linux
 - **Öğreniyorum:** web güvenliği, Burp Suite, Wireshark, Nmap
 
