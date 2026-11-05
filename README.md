@@ -7,7 +7,7 @@ Aydın Adnan Menderes Üniversitesi Bilgisayar Mühendisliği son sınıf öğre
 **[Seferna](https://github.com/omerrkayaa/seferna)**: Nakliyeci ile yük sahibini buluşturan platform (Android + web)
 TypeScript monorepo: NestJS, Next.js, Expo, PostgreSQL + PostGIS. SMS ile girişte kaba kuvvete karşı numara ve IP sınırları (IPv6 /64 sayımı, `X-Forwarded-For` taklidine karşı vekil güveni), oturuma bağlı JWT, yöneticiler için TOTP ile iki adımlı doğrulama (AES-256-GCM ile şifreli anahtarlar), rol ve sahiplik kontrolleri, yönetici denetim kaydı, imzalı belge bağlantıları. Güvenlik sınırları için ayrı uçtan uca test takımı var.
 
-**[Docket](https://github.com/omerrkayaa/docket)**: Ekipler için rol tabanlı görev takip uygulaması
+**[Docket](https://github.com/omerrkayaa/docket)**: Ekipler için rol tabanlı görev takip uygulaması · [canlı demo](https://omerrkayaa.github.io/docket/)
 Supabase/PostgreSQL ve Row Level Security ile erişim kontrolü, çevrimdışı çalışan PWA, alan bazlı üç yönlü eşitleme birleştirmesi, belgeler üzerinde soru yanıtlayan RAG asistanı (yetkilendirme ve istek sınırı testleriyle). CI ile otomatik test.
 
 **[İncir Aflatoksin Sınıflandırması](https://github.com/omerrkayaa/incir-aflatoksin-siniflandirma)**: İncir görüntülerinde sağlıklı / aflatoksinli ayrımı (staj projesi)
